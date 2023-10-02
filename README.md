@@ -1,4 +1,4 @@
-# <Prework Study guide Webpage>
+# <Pre-work-Study-guide Webpage>
 
 ## Description
 This is a short study guide for anyone who wants to learn the basic foundations of developing a website. It contains notes on HTML, CSS, Git, and JavaScript. I created this guide for anyone new who wants to get a taste of coding. Through the process of developing this guide I went through many ups and downs, but its important to fish for answers until you get a bite! In this process of creating a website you truly learn to learn, if that makes sense.
